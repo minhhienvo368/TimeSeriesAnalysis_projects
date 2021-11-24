@@ -11,4 +11,4 @@ Libraries: Long Short-Term Memory (LSTM)
 ## + Project 3 - Univariate Time Series
 
 
-#### + Database: Household Electric Power Consumption, Tweets of vacination, Time series forcast of Microsoft stock
+#### + Database: Household Electric Power Consumption, Tweets about vacination, Time series forecast of Microsoft stock
